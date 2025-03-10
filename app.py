@@ -3,7 +3,7 @@ import requests
 import sqlite3
 from flask import Flask, request
 
-TOKEN = "7329061875:AAHzWDlUqd3UuS5xSz5unCR1zxE3FRV6BDc"
+TOKEN = "7329061875:AAFYvHpmHugjlS1kZi8zXqfDPNJTF7UzZDc"
 CHANNEL_ID = "@DESIARUNGAMERS"  # Telegram चैनल का username
 TMDB_API_KEY = "153c207d50b2dc4ec3f756b7143154f7"  # TMDb से API Key लें
 
